@@ -1,3 +1,3 @@
 # cpp-collection
 
-A collection of simple c++ programs.
+A collection of c++ programs.
